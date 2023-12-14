@@ -29,7 +29,7 @@
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
     "autoprefixer": "^10.4.14",
-    "drizzle-kit": "beta",
+    "drizzle-kit": "0.20.7-02055e2",
     "eslint": "^8.54.0",
     "postcss": "^8.4.31",
     "prettier": "^3.1.0",
